@@ -48,3 +48,25 @@ Python과 데이터 분석 도구들을 활용해 실전 데이터를 다뤄보�
 
 - **Python 데이터 분석 도구 및 클라우드 환경 활용 능력 향상:** `numpy` `pandas` 등 Python의 핵심 데이터 분석 라이브러리를 활용해 데이터 전처리부터 모델링까지 전 과정을 수행할 수 있게 되었습니다. 더불어, Google Colab 클라우드 환경에서 개발하며 협업 능력과 GPU 활용 경험을 쌓아, 현대 개발 환경에 대한 이해와 활용 능력을 향상시켰습니다.
 
+
+
+![image](https://github.com/user-attachments/assets/9e059f91-66e9-4c08-992d-2e3506389184)
+
+![image](https://github.com/user-attachments/assets/9967f97d-38b9-4383-8b0b-8055bc844f1e)
+
+![image](https://github.com/user-attachments/assets/eacf65e2-907e-4371-bf18-d0efd1bcd672)
+
+![image](https://github.com/user-attachments/assets/5e6529d0-a218-4a7e-bcf2-a1e8b937d55e)
+
+![image](https://github.com/user-attachments/assets/9e9513a7-7ffa-4149-87ee-77102a8bdcbb)
+
+![image](https://github.com/user-attachments/assets/33ccceed-29e3-40fa-b776-ff0e45fb5f59)
+
+![image](https://github.com/user-attachments/assets/089f31c3-93ee-4f4a-876b-0b9ff3457e59)
+
+![image](https://github.com/user-attachments/assets/8d821bd7-e64a-4f8c-8f81-bc1eb2e22d09)
+
+![image](https://github.com/user-attachments/assets/14a45cef-0c73-4eda-ad3b-7fb494c9395e)
+
+![image](https://github.com/user-attachments/assets/5d6e51df-bbd4-41d0-bfce-39d80c804f15)
+
